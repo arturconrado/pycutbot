@@ -1,0 +1,8 @@
+pytube~=15.0.0
+moviepy~=1.0.3
+beautifulsoup4
+requests
+selenium==4.11.2
+webdriver-manager
+yt-dlp
+ffmpeg~=1.4
