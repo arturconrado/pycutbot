@@ -7,4 +7,5 @@ webdriver-manager
 yt-dlp
 ffmpeg~=1.4
 pytesseract~=0.3.13
-opencv-python
+opencv-python~=4.10.0.84
+numpy~=2.0.2
