@@ -6,3 +6,5 @@ selenium==4.11.2
 webdriver-manager
 yt-dlp
 ffmpeg~=1.4
+pytesseract~=0.3.13
+opencv-python
